@@ -2,7 +2,7 @@
 
 - Pass an url as parameter
 - Get and parse robots.txt url
-- Check if user-agent is allowed to crawl the url pass as parameter
+- Check if user-agent is allowed to crawl the url passed as parameter
 - Return true or false, error if exists (HTTP 403 Forbidden for example)
 
 **Installation:**
